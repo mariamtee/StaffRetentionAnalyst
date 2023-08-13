@@ -1,3 +1,5 @@
+![](FrontPage.png)
+
 # StaffRetentionAnalyst
 This project investigates the lack of staff retention in specific departments and gives practical recommendations to increase staff retention and workplace productivity in the Augustin group.
 
