@@ -14,8 +14,8 @@ The Augustin Group is currently grappling with the critical problem of losing va
 *Data Sourcing:*
 The data used for this analysis consists of two tables containing employee-related information, including length of service, gender, performance appraisals, job type, salary, department, and promotion dates. This data was collected from The Augustin Group's internal HR systems and covers a 7-year period (2015-2022).
 
-*Skills Demonstrated:*
-This project demonstrates several core skills in data analysis and problem-solving:
+**Skills Demonstrated:**
+This project demonstrates several core skills in data analysis and problem-solving
 
 *Data Collection:* Gathering relevant HR data, including employee length of service, gender, performance appraisals, job type, salary, department, and promotion dates.
 
