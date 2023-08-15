@@ -11,7 +11,7 @@ This document outlines the analysis conducted to address the issue of employee t
 **Problem Statement:**
 The Augustin Group is currently grappling with the critical problem of losing valuable employee talent in specific departments. The inability to retain professionals adversely impacts the company's reputation and operational efficiency. Such cases of attrition may unveil deeper-rooted challenges including retaining underqualified employees, fostering a toxic work environment, promoting groupism, and hampering workplace productivity. If not tackled promptly, these problems could result in decreased morale, lower productivity, and hindered growth prospects.
 
-*Data Sourcing:*
+**Data Sourcing:**
 The data used for this analysis consists of two tables containing employee-related information, including length of service, gender, performance appraisals, job type, salary, department, and promotion dates. This data was collected from The Augustin Group's internal HR systems and covers a 7-year period (2015-2022).
 
 **Skills Demonstrated:**
