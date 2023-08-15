@@ -32,10 +32,13 @@ This project demonstrates several core skills in data analysis and problem-solvi
 
 ![](SrAnalystGithub/SalaryAnalysis.png)
 
-*Exit Interview Analysis:* Utilizing natural language processing techniques to analyze exit interview data for common themes and reasons cited by departing employees.
+*Exit Interview Analysis:*  analyze exit interview data for reasons cited by departing employees.
 
-*Employee Feedback Sentiment Analysis:* Mining qualitative feedback to gauge employee sentiment and identify potential areas of concern.
-*Correlation Analysis:* Investigating correlations between factors like job satisfaction, compensation, career growth, and talent retention.
+![](SrAnalystGithub/GenderActivity.png)
+
+*Correlation Analysis:* Investigating correlations between factors like job satisfaction, compensation, career growth, and talent retention.            
+
+![](SrAnalystGithub/GenderGap.png)
 
 **<ins>Recommendations:</ins>**
 Based on the analysis, the following recommendations are proposed:
