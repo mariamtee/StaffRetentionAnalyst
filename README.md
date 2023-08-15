@@ -4,8 +4,6 @@
 
 This project investigates the lack of staff retention in specific departments and gives practical recommendations to increase staff retention and workplace productivity in the Augustin group.
 
-![](SrAnalystGithub/SalaryAnalysis.png)
-
 **Introduction:**
 
 This document outlines the analysis conducted to address the issue of employee talent loss within The Augustin Group. The analysis aims to uncover the reasons behind the loss of professionals in certain departments and provide actionable recommendations to improve employee retention. By identifying and addressing the underlying issues, the company can enhance its workforce stability and overall organizational performance which in turn generates higher revenue for the organization.
@@ -31,6 +29,8 @@ This project demonstrates several core skills in data analysis and problem-solvi
 
 
 *Descriptive Analysis:* Initial analysis involved calculating summary statistics such as attrition rates, average tenure, and departmental distribution of talent loss.
+
+![](SrAnalystGithub/SalaryAnalysis.png)
 
 *Exit Interview Analysis:* Utilizing natural language processing techniques to analyze exit interview data for common themes and reasons cited by departing employees.
 
