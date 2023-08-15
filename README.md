@@ -39,7 +39,7 @@ This project demonstrates several core skills in data analysis and problem-solvi
 
 *Descriptive Analysis:* Initial analysis involved calculating summary statistics such as attrition rates, average tenure, and departmental distribution of talent loss.
 
-![](SrAnalystGithub/SalaryAnalysis.png)
+  ![](SrAnalystGithub/GenderGap.png)
 
 *Exit Interview Analysis:*  analyze exit interview data for reasons cited by departing employees.
 
@@ -47,7 +47,7 @@ This project demonstrates several core skills in data analysis and problem-solvi
 
 *Correlation Analysis:* Investigating correlations between factors like job satisfaction, compensation, career growth, and talent retention.            
 
-![](SrAnalystGithub/GenderGap.png)
+![](SrAnalystGithub/SalaryAnalysis.png)
 
 **<ins>Recommendations:</ins>**
 Based on the analysis, the following recommendations are proposed:
