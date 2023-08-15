@@ -19,11 +19,20 @@ This project demonstrates several core skills in data analysis and problem-solvi
 
 *Data Collection:* Gathering relevant HR data, including employee length of service, gender, performance appraisals, job type, salary, department, and promotion dates.
 
+![](SrAnalystGithub/DataCleaning1.png)
+
 *Data Transformation:* Cleaning, structuring, and preparing raw data for analysis.
 
-*Data Modeling:* Applying statistical and analytical techniques to uncover patterns and trends in the data.
+ ![](SrAnalystGithub/DataCleaning2.png)
+
+![](SrAnalystGithub/DataCleaning4.png) 
+
+*Data Modeling:* Applying statistical and analytical techniques to uncover patterns and trends in the data.Merged the 2 tables to improve performance.
+![](SrAnalystGithub/DataCleaning3.png)
 
 *Problem Identification:* Detecting and understanding the underlying reasons for talent loss.
+
+
 
 *Recommendation Formulation:* Developing data-driven recommendations for management based on analysis outcomes.
 
