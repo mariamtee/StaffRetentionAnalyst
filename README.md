@@ -84,7 +84,8 @@ Transparent Promotions: Establish transparent promotion processes that reward me
 
 In conclusion, addressing talent loss at The Augustin Group is vital to the company's success and growth. By using data-driven insights, the company can implement effective measures to improve employee retention, foster a healthier workplace environment, and achieve higher levels of productivity and organizational success.
 
-**Disclaimer:** all names used in this analysis are fictional, data set downloaded from reliable training platform.
+**Disclaimer:** 
+All names used in this analysis are fictional, the data set was downloaded from a reliable training platform.
 
 
 
